@@ -22,7 +22,7 @@ The project was entirely implemented and tested using the following environment:
 
 # 🏗️ Network Architecture
 
-![Network Topology](Architecture.png)
+![Network Topology](Architecture.jpg)
 
 The architecture is composed of four main modules:
 
